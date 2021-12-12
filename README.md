@@ -1,25 +1,17 @@
-### Hey there, I'm Daniel! 👋
+<img src="https://user-images.githubusercontent.com/37551307/145709981-71d1ea9e-cb19-4a40-b55a-c234b835da5b.png">
 
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=daniellochner&show_icons=true&hide_border=true" />
+<p align="middle">
+  <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" href="https://daniellochner.com" width="25px">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" href="https://twitter.com/daniellochner" width="25px">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://youtube.com/daniellochner" width="25px">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" href="https://discord.com/invite/CpugBB4r7W" width="25px">
+</p>
 
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord-server]
-<br/>
+<b>GitHub Statistics</b>
+| <a href="https://github.com/daniellochner/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=daniellochner&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Daniel's GitHub Stats" /></a> | <a href="https://github.com/daniellochner/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellochner&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+<br>
 
----
-
-### Latest YouTube Videos
+<b>Latest YouTube Videos</b>
 <!-- YOUTUBE:START -->
-- [I Made the SPORE Creature Creator in Unity!](https://www.youtube.com/watch?v=Br_SQAc87s8)
-- [Rare Items, Melee Combat and More! - Unity Indie Game Devlog #22](https://www.youtube.com/watch?v=Ybfrh7zPWGQ)
-- [The Enemy AI in my Game Accidentally Became Sentient... - Unity Indie Game Devlog #21](https://www.youtube.com/watch?v=XacJw8plXa0)
-- [What was my FIRST game? &lpar;1000 Subscriber Special&rpar;](https://www.youtube.com/watch?v=Hz5sc3bpUk4)
-- [Special Weapons and More! - Unity Indie Game Devlog #20](https://www.youtube.com/watch?v=_xrOC4JfNoI)
 <!-- YOUTUBE:END -->
-
-[website]: https://daniellochner.com
-[twitter]: https://twitter.com/daniellochner
-[youtube]: https://youtube.com/daniellochner
-[discord-server]: https://discord.com/invite/CpugBB4r7W 
