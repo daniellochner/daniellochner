@@ -12,6 +12,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [I Made the SPORE Creature Creator in Unity!](https://www.youtube.com/watch?v=Br_SQAc87s8)
+- [Rare Items, Melee Combat and More! - Unity Indie Game Devlog #22](https://www.youtube.com/watch?v=Ybfrh7zPWGQ)
+- [The Enemy AI in my Game Accidentally Became Sentient... - Unity Indie Game Devlog #21](https://www.youtube.com/watch?v=XacJw8plXa0)
+- [What was my FIRST game? &lpar;1000 Subscriber Special&rpar;](https://www.youtube.com/watch?v=Hz5sc3bpUk4)
+- [Special Weapons and More! - Unity Indie Game Devlog #20](https://www.youtube.com/watch?v=_xrOC4JfNoI)
 <!-- YOUTUBE:END -->
 
 [website]: https://daniellochner.com
