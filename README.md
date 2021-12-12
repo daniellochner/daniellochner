@@ -7,6 +7,12 @@
 [<img align="left" alt="Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord-server]
 <br>
 
+<details>
+<summary>:zap: YouTube Videos</summary>
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+</details>
+
 [website]: https://daniellochner.com
 [twitter]: https://twitter.com/daniellochner
 [youtube]: https://youtube.com/daniellochner
