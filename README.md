@@ -7,11 +7,12 @@
 [<img align="left" alt="Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord-server]
 <br>
 
-<details>
-<summary>:zap: YouTube Videos</summary>
+## Latest YouTube Videos:
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
-</details>
+
+## GitHub Stats:
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=daniellochner&show_icons=true&hide_border=true" />
 
 [website]: https://daniellochner.com
 [twitter]: https://twitter.com/daniellochner
