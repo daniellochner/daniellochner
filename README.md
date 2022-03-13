@@ -1,8 +1,8 @@
 <h1 align="middle">Hey there, I'm Daniel! 👋</h1>
 <p align="middle">
   <a href="https://daniellochner.com"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="25px"></a>
-  <a href="https://twitter.com/daniellochner"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" width="25px"></a>
-  <a href="https://youtube.com/daniellochner"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="25px"></a>
+  <a href="https://youtube.com/daniellochner"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" width="25px"></a>
+  <a href="https://twitter.com/daniellochner"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="25px"></a>
   <a href="https://discord.com/invite/CpugBB4r7W"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" width="25px"></a>
 </p>
 
